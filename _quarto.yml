@@ -51,9 +51,11 @@ book:
   - analysis.qmd
   - discussions.qmd
   appendices:
-  - resources_writing.qmd
   - resources_qual.qmd
   - reading.qmd
+  - resources_writing.qmd
+  - resources_eval.qmd
+  - test.qmd
 
 
 bibliography: include/references.bib

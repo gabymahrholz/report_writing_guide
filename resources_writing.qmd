@@ -1,123 +1,66 @@
 # General writing resources
 
-## APA 7
+## Academic tone {.unnumbered}
 
-### General
+* Basic guide from [Walden University](https://academicguides.waldenu.edu/writingcenter/scholarlyvoice/tone){target="_blank"}
+* Address formal, objective, Cautious, succinct, and impersonal qualities of academic writing with examples [University of Portsmouth](https://www.port.ac.uk/student-life/help-and-advice/study-skills/written-assignments/academic-writing-style){target="_blank"}
+* Useful guide on how to soften claims in academic writing [George Mason University](https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing){target="_blank"}
+
+
+## APA 7 {.unnumbered}
+
+### General {.unnumbered}
 
 There are 2 general websites to recommend to brush up on APA 7:
 
 * [APA website](https://apastyle.apa.org/style-grammar-guidelines){target="_blank"}
 * [Purdue Online Writing lab](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html){target="_blank"}
 
-### Numbers
+### Numbers {.unnumbered}
 
 * [Numbers expressed in words](https://apastyle.apa.org/style-grammar-guidelines/numbers/words){target="_blank"}
 * [Numbers expressed in numerals](https://apastyle.apa.org/style-grammar-guidelines/numbers/numerals){target="_blank"}
 * [Numbers, decimals, and statistics guide](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf){target="_blank"}
 
 
-### Direct vs indirect citations
+### Direct vs indirect citations {.unnumbered}
 
 * [Examples of direct vs indirect citations in a summary table](https://psych.unl.edu/psycrs/350lab/lab1_apa/apa_citation_guide_211.pdf){target="_blank"} (but watch out! One of the study in section D is cited in APA 6 - it should be Corso et al.)
 * in general, a lot of info about in-text citations can be found at [https://apastyle.apa.org/style-grammar-guidelines/citations](https://apastyle.apa.org/style-grammar-guidelines/citations){target="_blank"}
 
-### Heading levels
+### Heading levels {.unnumbered}
 
 * Formatting heading levels correctly is important for communication. [https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings](https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings){target="_blank"}
 
-### Tables & Figures
+### Tables & Figures {.unnumbered}
 
 * [Figures](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/figures){target="_blank"}
 * [Tables](https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables){target="_blank"}
 
-## Academic tone
 
-* Basic guide from [Walden University](https://academicguides.waldenu.edu/writingcenter/scholarlyvoice/tone){target="_blank"}
-* Address formal, objective, Cautious, succinct, and impersonal qualities of academic writing with examples [University of Portsmouth](https://www.port.ac.uk/student-life/help-and-advice/study-skills/written-assignments/academic-writing-style){target="_blank"}
-* Useful guide on how to soften claims in academic writing [George Mason University](https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing){target="_blank"}
+## Cohesion and Coherence {.unnumbered}
 
-## Cohesion and Writing Flow & Coherence
+Cohesion and coherence are important features of academic writing. Cohesion is achieved when sentences are connected at the sentence level, whereas as coherence is achieved when ideas are connected. 
 
--   **Cohesion**: https://www.eapfoundation.com/writing/cohesion/ {target="_blank"}
--   **Cohesion and Coherence**: https://www.enago.com/academy/coherence-academic-writing-tips-strategies/ {target="_blank"} this link is covering both with a really good example on cohesion
--   **Writing Flow & Coherence**: https://www.port.ac.uk/student-life/help-and-advice/study-skills/written-assignments/writing-flow-and-coherence {target="_blank"}
-
-- Longer list of transition words: https://www.eapfoundation.com/writing/cohesion/transitions/ {target="_blank"}
-
-Cambridge used to have some really good writing resources but the link is not working anymore. I've retrieved the content via [wayback machine](https://web.archive.org/web/20220618041600/https://www.transkills.admin.cam.ac.uk/resources/mml/mml-literature-essay-writing/mml-how-can-i-improve/mml-writing-paragraphs-and-linking){target="_blank"} but modified the layout slightly for this guide
-
-Paragraphs can… 
-
-* divide writing into easily manageable sections 
-* signal the introduction of a new idea or point
-* signal a change of direction in an argument 
-* summarise what has been said so far before moving on to the next stage of an argument
-
-Jot down some ideas in response to the following questions before revealing the answer to compare your ideas: 
-
-* ***What problems might be caused (or revealed) by paragraphs that are too long?*** 
-
-`r hide("Click here to see the solution")`
-
-If paragraphs are too LONG: 
-
-* the material may not be effectively split up 
-* the essay/report may be rambling off the point 
-* it is more difficult for the reader to follow 
-
-`r unhide()`
-
-* ***What problems might be caused (or revealed) by paragraphs that are too short?*** 
-
-`r hide("Click here to see the solution")` 
-
-If paragraphs are too SHORT:
-
-* there is insufficient space to develop points properly, so they may seem superficial
-* the reader may find the essay disjointed, and it gives the impression of a series of disconnected points 
-
-`r unhide()`
-
-### Linking words and phrases
-
-Linking words and phrases should be used to show the direction of your argument throughout your report, not just at the beginning of paragraphs. 
-
-* signal a reinforcement of ideas → in other words, for example 
-* signal a development in ideas → moreover, more importantly 
-* signal a change in ideas → instead, on the other hand, however, in contrast, nevertheless 
-* signal a conclusion → thus, therefore, ultimately
-
-Do not try to use words like ‘thus’ or ‘therefore’ to suggest a connection between one idea and another where no logical connection actually exists!
+* [Cohesion](https://subjectguides.york.ac.uk/academic-writing/structure/){target="_blank"} Materials from the University of York. Short section on cohesion but with a link to language resources and a "what-not-to-do" example (i.e., writing without cohesion)
+* [Cohesion and Coherence](https://www.eapfoundation.com/writing/cohesion/){target="_blank"} explains cohesion quite nicely and there is a comparison with coherence half-way down the page. Pretty accessible
+* [Writing Flow & Coherence](https://www.port.ac.uk/student-life/help-and-advice/study-skills/written-assignments/writing-flow-and-coherence){target="_blank"} short list of transition words
+* [Longer list of transition words](https://www.eapfoundation.com/writing/cohesion/transitions/){target="_blank"}
+* Cambridge used to have some really good writing resources on *Writing paragraphs and linking ideas* but the link is not working anymore. I've retrieved the content via [wayback machine](https://web.archive.org/web/20220618041600/https://www.transkills.admin.cam.ac.uk/resources/mml/mml-literature-essay-writing/mml-how-can-i-improve/mml-writing-paragraphs-and-linking){target="_blank"}
 
 
+## PEEL paragraph structure {.unnumbered}
 
-### Linking your paragraphs
+Different systems with different acronyms but they basically say the same thing. Address one key point per paragraph and follow a logical structure.
 
-To make your essay flow smoothly and to construct a clear argument, it is essential to link your paragraphs together carefully. Here is an example from a book about Chinese business practices, showing the end of one paragraph and the beginning of another: \> By using family titles to name their colleagues, Chinese co-workers shape their business relations in terms of the well-known conventions and roles of the family and social structure. Interaction between employers and employees also finds a basis in family-centred codes of behaviour. The author’s main point is that family relations are the basis for all Chinese social relations, including those in the workplace. The end of the first paragraph sums up the way that Chinese co-workers interact. The beginning of the second paragraph focuses on the way that Chinese employers and interact with their employees.
+* PEEL structure [University of Hull](https://libguides.hull.ac.uk/grammar/paragraphs){target="_blank"}
+* Similar system to PEEL with Topic Sentence (TS), Supporting Sentences (SS), and Concluding Sentence (CS) [University of Newcastle, Australia](https://libguides.newcastle.edu.au/writing-paragraphs/structure){target="_blank"} - even though they suggest that a paragraph of 250 should be around 5-6 sentences, however, that would make sentences extremely long and difficult to read, so take that sentence with a grain of salt
+* Similar system to TS/SS/CS [University of York](https://subjectguides.york.ac.uk/academic-writing/structure/){target="_blank"} Same link as above as there is a short section on paragraph structure as well
 
-The beginning of the second paragraph mirrors and repeats words from the end of the first one. The word ‘family’ appears in both paragraphs, while the ‘employers’ and ‘employees’ of the second paragraph bears a relationship of similarity and contrast to the ‘co-workers’ of the first paragraph. The word ‘interaction’ mirrors the word ‘relations’. The phrases ‘shape their business relations in terms of’ and ‘finds a basis in’ say similar things. The author keeps his main point – all relations are modelled on family relations – before us, while working through different examples of it.
+## Confused words {.unnumbered}
 
-One way of thinking about it is that paragraphs should introduce a new point without losing sight of the old one; they should bring out the relationship between the last point and the new one. Linking words and phrases work in both directions, backwards and forwards.
-
-
-## PEEL paragraph structure
-
-* https://libguides.hull.ac.uk/grammar/paragraphs {target="_blank"}
-* https://libguides.newcastle.edu.au/writing-paragraphs/structure {target="_blank"} - even though they suggest that a paragraph of 250 should be around 5-6 sentences, however, that would make sentences extremely long and difficult to read
-
-## Confused words
-
-* https://academicguides.waldenu.edu/writingcenter/scholarlyvoice/confusedwords {target="_blank"}
+* A list of confused words from [Walden University](https://academicguides.waldenu.edu/writingcenter/scholarlyvoice/confusedwords){target="_blank"}
 
 
 
 
-# Resources for Evaluation
-
-## Comparing and contrasting
-
-* https://www.eapfoundation.com/writing/essays/candc/ {target="_blank"}
-
-Drs Wilhelmiina Toivo and Ashley Robertson developed a qualitative writing guide for the module Research Methods 2 (MSc programme). This course is much more in depth, however the resources for academic writing might be useful.
-
-https://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html {target="_blank"}
