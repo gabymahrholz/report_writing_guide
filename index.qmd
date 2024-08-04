@@ -1,0 +1,21 @@
+# Overview {.unnumbered}
+
+This is report writing guide for qualitative research projects
+
+work still in development - constantly changing and will add new sources
+
+This guide introduces thematic analysis based on the writings of Victoria Braun and Virginia Clarke, in particular their 2022 book "Thematic analysis: a practical guide" that you can access via the library: [https://go.exlibris.link/4s9L4DWP](https://go.exlibris.link/4s9L4DWP){target="_blank"} But also on materials already developed by Drs Ashley Robertson and Wilhelmiina Toivo both from the University of Glasgow.
+
+If you want to apply anything other than TA, I'm not your person and this is not your guide. Not saying you cannot do it, but I would not be able to support you.
+
+
+The dissertation should all the sections:
+
+* Title
+* Abstract
+* Introduction
+* Method
+* Analysis
+* Discussion
+* References
+* Appendices

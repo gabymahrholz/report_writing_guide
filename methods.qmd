@@ -1,0 +1,209 @@
+# Methods {.unnumbered}
+
+The general structure of a methods section is pretty similar regardless of whether you are collecting data or choose to utilise already existing datasets to answer your research question. However, information relating to participants and data collection in primary research is substituted by information about the original dataset and the selection process for secondary data analysis. The headings are interlaced in the following sections. Sections applicable to only primary or secondary data analysis approaches are specifically labelled. If there is specif label attached, sections apply to both methods equally.
+
+**For primary data collection**
+
+* [Research Design Overview](methods.qmd#sec-design)
+* [Participants recruitment](methods.qmd#sec-participants)
+* [Data collection](methods.qmd#sec-datacollection)
+* [Ethics](methods.qmd#sec-ethics)
+* [Reflexivity](methods.qmd#sec-reflexivity)
+* [Data Analysis](methods.qmd#sec-analysis)
+
+
+**For secondary data analysis**
+
+* [Research Design Overview](methods.qmd#sec-design)
+* [Secondary data](methods.qmd#sec-secondary)
+* [Data selection](methods.qmd#sec-selection)
+* [Ethics](methods.qmd#sec-ethics)
+* [Reflexivity](methods.qmd#sec-reflexivity)
+* [Data Analysis](methods.qmd#sec-analysis)
+
+
+## Research Design Overview {#sec-design}
+
+in this section you want to address your questions such as:
+
+* Why qualitative methods?
+* Justification of the chosen design (why is TA the best framework for your research question?)
+* Specify the theoretical underpinnings of TA (e.g., theories of language; epistemology/ontology)
+* Justification on data collection methods - why focus groups/ interviews/ social media sites/ UK data service/ ...?
+
+::: {.callout-note}
+The justification on data collection methods could also be moved to data collection if you think it would be more logical to place it there.
+:::
+
+
+You can cover aspects briefly if they already form part of your rationale in the introduction.
+
+
+
+### Theoretical underpinnings
+
+TA is not a single method. It is really flexible, and can be utilised for small q and Big Q frameworks. That's why it is super important to define your theoretical underpinnings. You can do this via Theories of language and/or the "ologies"
+
+#### Theories of language
+
+
+
+#### The "Ologies": Epistemology and Ontology
+
+
+
+### Why TA?
+
+This is a really difficult section to get right. In [this citical review (p. 703, point 3)](https://doi.org/10.1080/17437199.2022.2161594){target="_blank"}, Braun and Clarke mention that approximately half of the studies they reviewed did not provide any rationale that justifies the use of TA. Or descriptions were super generic that they could be easily applied to any other qual methodology.
+
+Braun and Clarke suggest that best practice would be to include a clear and specific rationale for the use of (the particular form of) TA, connected to the research question, theory, and/or context. For example, if flexibility of TA is a selling feature, explain how it was utilised and why it was important for your research question.
+
+This can actually be quite brief (see for example, [Rance et al., 2017](https://doi.org/10.1177/1359105315609088){target="_blank"})
+
+
+
+
+
+
+## Participants recruitment (primary data collection only) {#sec-participants}
+
+* How many participants and who were they?
+* Provide a table with pseudonyms, age, gender, nationality
+* Why were these participants considered right for your study aim?
+
+
+## Data collection (primary data collection only) {#sec-datacollection} 
+
+* What materials did you use? (Demographics questionnaires; focus group schedule; Interview schedule; etc)
+* What information was provided ahead of the FG/interview? (e.g., did they receive the questions in advance)
+* How was the FG/interview recorded
+* How long did it take?
+
+
+## Secondary data (secondary data only) {#sec-secondary}
+
+Here you want to describe the original study/dataset briefly to give the reader context about their data collection. You want to address questions like:
+
+* What was the original study about? 
+* Who conducted it? 
+* Where did you get the data from? (cite in APA style) 
+* What methodology did they use?
+* How many interviews/ focus groups, etc. did they conduct? 
+* Who were their participants and what were they asked about?
+
+::: {.callout-caution}
+You can only provide as much information you have available (e.g., demographics).
+:::
+
+## Data selection (secondary data only) {#sec-selection}
+
+Describe your procedure for choosing your final data set. 
+
+If you included all the data from the original study, feel free to combine the sections Secondary data and Data selection, but relabel the heading. 
+
+If you are using a subsection of the original dataset, explain how many FGs/interviews/... you choose, and the reasons as to why you choose the specific ones you decided to use for your analysis.
+
+
+## Ethics {#sec-ethics}
+
+### Primary data collection
+
+* Mention that your Ethics were approved and state by whom (add application number in brackets for primary data collection)
+* Address "formal" ethics procedures like gathering consent
+* You might also want to address more non-formal procedures like rapport building [unless you already included it elsewhere]
+
+### Secondary data collection
+
+The information you are able to provide in this section will depend on the information made available within the dataset. Some things you might want to comment on include: anonymisation procedures (e.g. has information been replaced or redacted), rapport building, information/ consent/ debrief, consent as a process. You will only be able to include information that has been made available in the dataset, so do not worry if you do not know a lot of detail.
+
+
+## Reflexivity {#sec-reflexivity}
+
+According to Braun and Clarke (2022), reflexivity involves the practice of critical reflection on your role as researcher, and your research practice and process. We need to critically interrogate what we do, how and why we do it, and the impacts and influences of this on our research.
+
+Reflexivity isn’t all navel-gazing and just thinking about yourself; it’s also about the knowledge we produce from research and how we produce it (Luttrell, 2019; Wilkinson, 1988). British feminist psychologist Sue Wilkinson (1988) offered a useful distinction between:
+
+* Personal reflexivity – how the researcher’s values shape their research and the knowledge produced;
+* Functional reflexivity – how the methods and other aspects of design shape the research and knowledge produced; and
+* Disciplinary reflexivity – how academic disciplines shape knowledge production.
+
+::: {.callout-tip}
+The Braun and Clarke book from 2022 has a great activity on these 3 types to get you started (pp. 16-18, blue box)
+:::
+
+## Data Analysis {#sec-analysis}
+
+In this section, you want to explain how the data was prepared for the analysis and detail the analysis approach
+
+* Did you use specific software to transcribe? Did you use automatic transcriptions and you fixed them manually, or did you transcribe from scratch?
+* How did you anonymise the data? Did you replace or redact identifiable information? (e.g., were participants given pseudonyms; were any information replaced with broader labels or deleted; etc.)
+* Outline the 6 different phases of the TA analysis approach. 
+
+
+### Phase 1: Dataset familiarisation
+
+As the label says, you become deeply familiar with the content of your dataset. That means reading and re-reading your transcripts/ sources repeatedly. Take some notes about any analytic ideas or insights you may have, both related to each data item (e.g., interview 1, interview 2, etc.) and the dataset as a whole.
+
+***For the dissertation describe briefly how you familiarised yourself with the data.***
+
+### Phase 2: Data coding 
+
+Work systematically through your dataset in a fine-grained way. Identify quotes in the data that are either interesting and/or relevant for your research question. Try to assign code label (e.g., a word or a phrase) that is analytically meaningful. You'd want to aim for single meaning code labels so that grouping them together in the next stage becomes easier. You can do this the old-fashioned way with paper and highlighters or use some funky software like NVIVO. The choice is yours.
+
+When coding, pay attention to the orientations to data coding: inductive (data-driven) vs deductive (researcher- or theory-driven) orientations. They are actually on a spectrum, and in reality, they cannot be 100% one or the other. So it's fine to place your orientation as either **predominantly inductive**, **predominantly deductive** or to have **elements of both**. Whatever you decide on, it needs to fit your purpose and your theoretical framework.
+
+If you are interested in the the experiences, perspectives, and meanings of the participants, you are probably taking more of an inductive approach (aligning with Big Q). Whereas if you let theory guides you in your attempt to make meaning of the data, you'd probably have a more deductive orientation.
+
+A second consideration is the level at which you will code meaning - semantic vs latent coding. **Semantic codes** capture explicitly-expressed meaning; they often stay close to the language of participants or the overt meanings of data. **Latent codes** focus on a deeper, more implicit level of meaning. Initial coding tends to be more semantic, but might switch to more latent coding the more familiar you become with the data. In practice, it's neither one or the other, so again, we're talking about a spectrum here.
+
+::: {.callout-important}
+Despite keeping close to the language of the participant when coding semantically, you'd still need to interpret going beyond mere repetition of the participants' words. But more about that in the [Analysis](analysis.qmd) section.
+:::
+
+The codes are the building blocks for your analysis, which means, you'll probably go through this phase repeatedly to refine your code labels.
+
+***In your dissertation, explain your orientation to the data (inductive/deductive) and the level of coding (semantic/latent).***
+
+
+### Phase 3: Initial theme generation
+
+A theme in reflexive TA is a pattern of shared meaning organised around a central concept.
+
+What you are aiming for are cohesive self-contained units of meaning in each theme. The participants will have expressed similar ideas but maybe used different examples or across different contexts. There should be no contradictions within each theme, unless your theme is about the contradiction of viewpoints or the tension that arises between them.
+
+In phase 3, think about how you can group your code labels together. You will probably not be able use all code labels, and that is totally fine. When Wil and I did our initial theme generation phase, we printed out all code labels, cut them out with scissors, and moved them around 5 whiteboards (held up with magnets) until they felt about right. 
+
+Some labels will group together more easily than others. You will probably end up with a lot of potential themes and not all of them will survive until the end. So don't get too attached to these initial themes!!! I promise you, it will *all* change in phase 4 (or 5 or 6) - muahahaha. It may also happen that your initial codes were too broad and you would have to break them up (again, has to do with becoming more familiar with the data and getting a better understanding what it all means). If you are lucky, one of these broad codes may actually be a theme. You'll never know. Bottom line is, theme generation is messy and will take some time.
+
+
+### Phase 4: Theme development and review
+
+In phase 4, you want to review the initial themes from phase 3 and revise them by re-engaging with *all* the coded data extracts, and the entire dataset. Make sure that each theme has its own boundaries and that themes don't merge into each other. If that happens, it's probably best to go back to phase 3 or even 2. Don't fret if that happens, it's all part of the process.
+
+It's also time to check whether your themes are coherent. If they are too diverse, ask yourself whether they might be subthemes of an overarching theme, or parts of different themes altogether.
+
+What you want to do in is tell a compelling story that addresses the research question that doesn't take you too far away from the data. You need enough meaningful quotes to evidence the theme, but it's also not about numerical frequency (i.e., x number of people said the same word). It's about the theme conveying something important and meaningful for your research question. 
+
+Once you feel you have a set of distinct themes that work in relation to the coded data extracts AND tell a good story, go back to check whether your themes fit in the entire dataset. Still being prepared to let things go.
+
+***In the dissertation, you want to describe the process how you arrived at the final themes (e.g., phases 3 and 4). It's ok to describe them together since you can expect these 2 phases to interweave quite a bit.***
+
+
+
+
+### Phase 5: Theme refining, defining and naming 
+
+### Theme 6: Writing up
+
+::: {.callout-caution}
+The 6 phases are not sequential steps and they are not intended to be. So don't just copy and paste these phases, personalise this section. Tell the reader exactly how you applied them. (see Braun & Clarke, 2022, pp. 35-36, blue box)
+:::
+
+## Keep in mind
+
+There is some degree of flexibility in the methods section. There are a few things that could be moved about, for example, you could talk about the "non-formal" part of ethics either in Ethics or Data collection. Likewise, you could justify the reason for your specific data collection approach in Data collection. You need to decide where information needs to be placed to make most sense, but the key things is to not repeat information.
+
+
+## Where to find secondary data
+
+* [UK Data Service](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=851540){target="_blank"}

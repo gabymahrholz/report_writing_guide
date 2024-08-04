@@ -1,0 +1,14 @@
+{
+  "hash": "0c9ad6b9a841386b5a985a3d35528795",
+  "result": {
+    "markdown": "# Further reading for qualitative projects\n\n## Books on Thematic Analysis\n\n\n::: {.small_right}\n<img src=\"images/BC_2013.jpg\"/>\n:::\n\nBraun, V., & Clarke, V. (2013). *Successful Qualitative Research: A Practical Guide for Beginners.* Sage.\nAccess via the library: [https://go.exlibris.link/RY8L5PBy](https://go.exlibris.link/RY8L5PBy){target=\"_blank\"}\n\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![Braun and Clarke (2022)](images/BC_2022.jpg){fig-align='center' width=100%}\n:::\n:::\n\n\n\n\n\n\n[https://go.exlibris.link/4s9L4DWP](https://go.exlibris.link/4s9L4DWP){target=\"_blank\"}\n\n\n\n## Braun & Clarke - important papers on TA\n\n* Braun, V., & Clarke, V. (2019). Reflecting on reflexive thematic analysis. *Qualitative Research in Sport, Exercise and Health, 11*(4), 589–597. [https://doi.org/10.1080/2159676X.2019.1628806](https://doi.org/10.1080/2159676X.2019.1628806){target=\"_blank\"}\n* Braun, V., & Clarke, V. (2021). One size fits all? What counts as quality practice in (reflexive) thematic analysis? *Qualitative Research in Psychology, 18*(3), 328-352. [https://doi.org/10.1080/14780887.2020.1769238](https://doi.org/10.1080/14780887.2020.1769238 ){target=\"_blank\"}\n* Braun, V., & Clarke, V. (2021). To saturate or not to saturate? Questioning data saturation as a useful concept for thematic analysis and sample-size rationales. *Qualitative Research in Sport, Exercise and Health, 13*(2), 201-216. [https://doi.org/10.1080/2159676X.2019.1704846](https://doi.org/10.1080/2159676X.2019.1704846){target=\"_blank\"}\n* Braun, V., Clarke, V., & Hayfield, N. (2022). ‘A starting point for your journey, not a map’: Nikki Hayfield in conversation with Virginia Braun and Victoria Clarke about thematic analysis. *Qualitative Research in Psychology, 19*(2), 424–445. [https://doi.org/10.1080/14780887.2019.1670765](https://doi.org/10.1080/14780887.2019.1670765){target=\"_blank\"}\n* Braun, V., & Clarke, V. (2023). Is thematic analysis used well in health psychology? A critical review of published research, with recommendations for quality practice and reporting. *Health Psychology Review, 17*(4), 695–718. [https://doi.org/10.1080/17437199.2022.2161594](https://doi.org/10.1080/17437199.2022.2161594){target=\"_blank\"}\n* Braun, V., & Clarke, V. (2023). Toward good practice in thematic analysis: Avoiding common problems and be(com)ing a *knowing* researcher. *International Journal of Transgender Health, 24*(1), 1–6. [https://doi.org/10.1080/26895269.2022.2129597](https://doi.org/10.1080/26895269.2022.2129597){target=\"_blank\"}\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

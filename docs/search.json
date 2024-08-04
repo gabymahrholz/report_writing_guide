@@ -1,0 +1,184 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Report writing guide for Dissertations",
+    "section": "",
+    "text": "Overview\nThis is report writing guide for qualitative research projects\nwork still in development - constantly changing and will add new sources\nThis guide introduces thematic analysis based on the writings of Victoria Braun and Virginia Clarke, in particular their 2022 book “Thematic analysis: a practical guide” that you can access via the library: https://go.exlibris.link/4s9L4DWP But also on materials already developed by Drs Ashley Robertson and Wilhelmiina Toivo both from the University of Glasgow.\nIf you want to apply anything other than TA, I’m not your person and this is not your guide. Not saying you cannot do it, but I would not be able to support you.\nThe dissertation should all the sections:\n\nTitle\nAbstract\nIntroduction\nMethod\nAnalysis\nDiscussion\nReferences\nAppendices"
+  },
+  {
+    "objectID": "introductions.html#broad-to-narrow-structure",
+    "href": "introductions.html#broad-to-narrow-structure",
+    "title": "Introduction",
+    "section": "broad-to-narrow structure",
+    "text": "broad-to-narrow structure\n\nyou want to cover background - what’s already been established\nbring in theoretical frameworks that may apply\nevaluate papers to create a rationale for the study\nin-depth evaluation of the papers that contribute to establishing your research question (and hypothesis in case you are doing a quant project)"
+  },
+  {
+    "objectID": "introductions.html#synthesising-evidence",
+    "href": "introductions.html#synthesising-evidence",
+    "title": "Introduction",
+    "section": "Synthesising evidence",
+    "text": "Synthesising evidence\nyou want to create themes group things together that have a similar results or methodologies"
+  },
+  {
+    "objectID": "introductions.html#evaluating-evidence",
+    "href": "introductions.html#evaluating-evidence",
+    "title": "Introduction",
+    "section": "Evaluating evidence",
+    "text": "Evaluating evidence"
+  },
+  {
+    "objectID": "methods.html#sec-design",
+    "href": "methods.html#sec-design",
+    "title": "Methods",
+    "section": "Research Design Overview",
+    "text": "Research Design Overview\nin this section you want to address your questions such as:\n\nWhy qualitative methods?\nJustification of the chosen design (why is TA the best framework for your research question?)\nSpecify the theoretical underpinnings of TA (e.g., theories of language; epistemology/ontology)\nJustification on data collection methods - why focus groups/ interviews/ social media sites/ UK data service/ …?\n\n\n\n\n\n\n\nNote\n\n\n\nThe justification on data collection methods could also be moved to data collection if you think it would be more logical to place it there.\n\n\nYou can cover aspects briefly if they already form part of your rationale in the introduction.\n\nTheoretical underpinnings\nTA is not a single method. It is really flexible, and can be utilised for small q and Big Q frameworks. That’s why it is super important to define your theoretical underpinnings. You can do this via Theories of language and/or the “ologies”\n\nTheories of language\n\n\nThe “Ologies”: Epistemology and Ontology\n\n\n\nWhy TA?\nThis is a really difficult section to get right. In this citical review (p. 703, point 3), Braun and Clarke mention that approximately half of the studies they reviewed did not provide any rationale that justifies the use of TA. Or descriptions were super generic that they could be easily applied to any other qual methodology.\nBraun and Clarke suggest that best practice would be to include a clear and specific rationale for the use of (the particular form of) TA, connected to the research question, theory, and/or context. For example, if flexibility of TA is a selling feature, explain how it was utilised and why it was important for your research question.\nThis can actually be quite brief (see for example, Rance et al., 2017)"
+  },
+  {
+    "objectID": "methods.html#sec-participants",
+    "href": "methods.html#sec-participants",
+    "title": "Methods",
+    "section": "Participants recruitment (primary data collection only)",
+    "text": "Participants recruitment (primary data collection only)\n\nHow many participants and who were they?\nProvide a table with pseudonyms, age, gender, nationality\nWhy were these participants considered right for your study aim?"
+  },
+  {
+    "objectID": "methods.html#sec-datacollection",
+    "href": "methods.html#sec-datacollection",
+    "title": "Methods",
+    "section": "Data collection (primary data collection only)",
+    "text": "Data collection (primary data collection only)\n\nWhat materials did you use? (Demographics questionnaires; focus group schedule; Interview schedule; etc)\nWhat information was provided ahead of the FG/interview? (e.g., did they receive the questions in advance)\nHow was the FG/interview recorded\nHow long did it take?"
+  },
+  {
+    "objectID": "methods.html#sec-secondary",
+    "href": "methods.html#sec-secondary",
+    "title": "Methods",
+    "section": "Secondary data (secondary data only)",
+    "text": "Secondary data (secondary data only)\nHere you want to describe the original study/dataset briefly to give the reader context about their data collection. You want to address questions like:\n\nWhat was the original study about?\nWho conducted it?\nWhere did you get the data from? (cite in APA style)\nWhat methodology did they use?\nHow many interviews/ focus groups, etc. did they conduct?\nWho were their participants and what were they asked about?\n\n\n\n\n\n\n\nCaution\n\n\n\nYou can only provide as much information you have available (e.g., demographics)."
+  },
+  {
+    "objectID": "methods.html#sec-selection",
+    "href": "methods.html#sec-selection",
+    "title": "Methods",
+    "section": "Data selection (secondary data only)",
+    "text": "Data selection (secondary data only)\nDescribe your procedure for choosing your final data set.\nIf you included all the data from the original study, feel free to combine the sections Secondary data and Data selection, but relabel the heading.\nIf you are using a subsection of the original dataset, explain how many FGs/interviews/… you choose, and the reasons as to why you choose the specific ones you decided to use for your analysis."
+  },
+  {
+    "objectID": "methods.html#sec-ethics",
+    "href": "methods.html#sec-ethics",
+    "title": "Methods",
+    "section": "Ethics",
+    "text": "Ethics\n\nPrimary data collection\n\nMention that your Ethics were approved and state by whom (add application number in brackets for primary data collection)\nAddress “formal” ethics procedures like gathering consent\nYou might also want to address more non-formal procedures like rapport building [unless you already included it elsewhere]\n\n\n\nSecondary data collection\nThe information you are able to provide in this section will depend on the information made available within the dataset. Some things you might want to comment on include: anonymisation procedures (e.g. has information been replaced or redacted), rapport building, information/ consent/ debrief, consent as a process. You will only be able to include information that has been made available in the dataset, so do not worry if you do not know a lot of detail."
+  },
+  {
+    "objectID": "methods.html#sec-reflexivity",
+    "href": "methods.html#sec-reflexivity",
+    "title": "Methods",
+    "section": "Reflexivity",
+    "text": "Reflexivity\nAccording to Braun and Clarke (2022), reflexivity involves the practice of critical reflection on your role as researcher, and your research practice and process. We need to critically interrogate what we do, how and why we do it, and the impacts and influences of this on our research.\nReflexivity isn’t all navel-gazing and just thinking about yourself; it’s also about the knowledge we produce from research and how we produce it (Luttrell, 2019; Wilkinson, 1988). British feminist psychologist Sue Wilkinson (1988) offered a useful distinction between:\n\nPersonal reflexivity – how the researcher’s values shape their research and the knowledge produced;\nFunctional reflexivity – how the methods and other aspects of design shape the research and knowledge produced; and\nDisciplinary reflexivity – how academic disciplines shape knowledge production.\n\n\n\n\n\n\n\nTip\n\n\n\nThe Braun and Clarke book from 2022 has a great activity on these 3 types to get you started (pp. 16-18, blue box)"
+  },
+  {
+    "objectID": "methods.html#sec-analysis",
+    "href": "methods.html#sec-analysis",
+    "title": "Methods",
+    "section": "Data Analysis",
+    "text": "Data Analysis\nIn this section, you want to explain how the data was prepared for the analysis and detail the analysis approach\n\nDid you use specific software to transcribe? Did you use automatic transcriptions and you fixed them manually, or did you transcribe from scratch?\nHow did you anonymise the data? Did you replace or redact identifiable information? (e.g., were participants given pseudonyms; were any information replaced with broader labels or deleted; etc.)\nOutline the 6 different phases of the TA analysis approach.\n\n\nPhase 1: Dataset familiarisation\nAs the label says, you become deeply familiar with the content of your dataset. That means reading and re-reading your transcripts/ sources repeatedly. Take some notes about any analytic ideas or insights you may have, both related to each data item (e.g., interview 1, interview 2, etc.) and the dataset as a whole.\nFor the dissertation describe briefly how you familiarised yourself with the data.\n\n\nPhase 2: Data coding\nWork systematically through your dataset in a fine-grained way. Identify quotes in the data that are either interesting and/or relevant for your research question. Try to assign code label (e.g., a word or a phrase) that is analytically meaningful. You’d want to aim for single meaning code labels so that grouping them together in the next stage becomes easier. You can do this the old-fashioned way with paper and highlighters or use some funky software like NVIVO. The choice is yours.\nWhen coding, pay attention to the orientations to data coding: inductive (data-driven) vs deductive (researcher- or theory-driven) orientations. They are actually on a spectrum, and in reality, they cannot be 100% one or the other. So it’s fine to place your orientation as either predominantly inductive, predominantly deductive or to have elements of both. Whatever you decide on, it needs to fit your purpose and your theoretical framework.\nIf you are interested in the the experiences, perspectives, and meanings of the participants, you are probably taking more of an inductive approach (aligning with Big Q). Whereas if you let theory guides you in your attempt to make meaning of the data, you’d probably have a more deductive orientation.\nA second consideration is the level at which you will code meaning - semantic vs latent coding. Semantic codes capture explicitly-expressed meaning; they often stay close to the language of participants or the overt meanings of data. Latent codes focus on a deeper, more implicit level of meaning. Initial coding tends to be more semantic, but might switch to more latent coding the more familiar you become with the data. In practice, it’s neither one or the other, so again, we’re talking about a spectrum here.\n\n\n\n\n\n\nImportant\n\n\n\nDespite keeping close to the language of the participant when coding semantically, you’d still need to interpret going beyond mere repetition of the participants’ words. But more about that in the Analysis section.\n\n\nThe codes are the building blocks for your analysis, which means, you’ll probably go through this phase repeatedly to refine your code labels.\nIn your dissertation, explain your orientation to the data (inductive/deductive) and the level of coding (semantic/latent).\n\n\nPhase 3: Initial theme generation\nA theme in reflexive TA is a pattern of shared meaning organised around a central concept.\nWhat you are aiming for are cohesive self-contained units of meaning in each theme. The participants will have expressed similar ideas but maybe used different examples or across different contexts. There should be no contradictions within each theme, unless your theme is about the contradiction of viewpoints or the tension that arises between them.\nIn phase 3, think about how you can group your code labels together. You will probably not be able use all code labels, and that is totally fine. When Wil and I did our initial theme generation phase, we printed out all code labels, cut them out with scissors, and moved them around 5 whiteboards (held up with magnets) until they felt about right.\nSome labels will group together more easily than others. You will probably end up with a lot of potential themes and not all of them will survive until the end. So don’t get too attached to these initial themes!!! I promise you, it will all change in phase 4 (or 5 or 6) - muahahaha. It may also happen that your initial codes were too broad and you would have to break them up (again, has to do with becoming more familiar with the data and getting a better understanding what it all means). If you are lucky, one of these broad codes may actually be a theme. You’ll never know. Bottom line is, theme generation is messy and will take some time.\n\n\nPhase 4: Theme development and review\nIn phase 4, you want to review the initial themes from phase 3 and revise them by re-engaging with all the coded data extracts, and the entire dataset. Make sure that each theme has its own boundaries and that themes don’t merge into each other. If that happens, it’s probably best to go back to phase 3 or even 2. Don’t fret if that happens, it’s all part of the process.\nIt’s also time to check whether your themes are coherent. If they are too diverse, ask yourself whether they might be subthemes of an overarching theme, or parts of different themes altogether.\nWhat you want to do in is tell a compelling story that addresses the research question that doesn’t take you too far away from the data. You need enough meaningful quotes to evidence the theme, but it’s also not about numerical frequency (i.e., x number of people said the same word). It’s about the theme conveying something important and meaningful for your research question.\nOnce you feel you have a set of distinct themes that work in relation to the coded data extracts AND tell a good story, go back to check whether your themes fit in the entire dataset. Still being prepared to let things go.\nIn the dissertation, you want to describe the process how you arrived at the final themes (e.g., phases 3 and 4). It’s ok to describe them together since you can expect these 2 phases to interweave quite a bit.\n\n\nPhase 5: Theme refining, defining and naming\n\n\nTheme 6: Writing up\n\n\n\n\n\n\nCaution\n\n\n\nThe 6 phases are not sequential steps and they are not intended to be. So don’t just copy and paste these phases, personalise this section. Tell the reader exactly how you applied them. (see Braun & Clarke, 2022, pp. 35-36, blue box)"
+  },
+  {
+    "objectID": "methods.html#keep-in-mind",
+    "href": "methods.html#keep-in-mind",
+    "title": "Methods",
+    "section": "Keep in mind",
+    "text": "Keep in mind\nThere is some degree of flexibility in the methods section. There are a few things that could be moved about, for example, you could talk about the “non-formal” part of ethics either in Ethics or Data collection. Likewise, you could justify the reason for your specific data collection approach in Data collection. You need to decide where information needs to be placed to make most sense, but the key things is to not repeat information."
+  },
+  {
+    "objectID": "methods.html#where-to-find-secondary-data",
+    "href": "methods.html#where-to-find-secondary-data",
+    "title": "Methods",
+    "section": "Where to find secondary data",
+    "text": "Where to find secondary data\n\nUK Data Service"
+  },
+  {
+    "objectID": "analysis.html#general-structure",
+    "href": "analysis.html#general-structure",
+    "title": "Analysis",
+    "section": "General structure",
+    "text": "General structure\n\nstart with short summary of your theme names\npresent themes"
+  },
+  {
+    "objectID": "resources_writing.html",
+    "href": "resources_writing.html",
+    "title": "Appendix A — General writing resources",
+    "section": "",
+    "text": "B Resources for Evaluation"
+  },
+  {
+    "objectID": "resources_writing.html#apa-7",
+    "href": "resources_writing.html#apa-7",
+    "title": "Appendix A — General writing resources",
+    "section": "A.1 APA 7",
+    "text": "A.1 APA 7\n\nA.1.1 General\nThere are 2 general websites to recommend to brush up on APA 7:\n\nAPA website\nPurdue Online Writing lab\n\n\n\nA.1.2 Numbers\n\nNumbers expressed in words\nNumbers expressed in numerals\nNumbers, decimals, and statistics guide\n\n\n\nA.1.3 Direct vs indirect citations\n\nExamples of direct vs indirect citations in a summary table (but watch out! One of the study in section D is cited in APA 6 - it should be Corso et al.)\nin general, a lot of info about in-text citations can be found at https://apastyle.apa.org/style-grammar-guidelines/citations\n\n\n\nA.1.4 Heading levels\n\nFormatting heading levels correctly is important for communication. https://apastyle.apa.org/style-grammar-guidelines/paper-format/headings\n\n\n\nA.1.5 Tables & Figures\n\nFigures\nTables"
+  },
+  {
+    "objectID": "resources_writing.html#academic-tone",
+    "href": "resources_writing.html#academic-tone",
+    "title": "Appendix A — General writing resources",
+    "section": "A.2 Academic tone",
+    "text": "A.2 Academic tone\n\nBasic guide from Walden University\nAddress formal, objective, Cautious, succinct, and impersonal qualities of academic writing with examples University of Portsmouth\nUseful guide on how to soften claims in academic writing George Mason University"
+  },
+  {
+    "objectID": "resources_writing.html#cohesion-and-writing-flow-coherence",
+    "href": "resources_writing.html#cohesion-and-writing-flow-coherence",
+    "title": "Appendix A — General writing resources",
+    "section": "A.3 Cohesion and Writing Flow & Coherence",
+    "text": "A.3 Cohesion and Writing Flow & Coherence\n\nCohesion: https://www.eapfoundation.com/writing/cohesion/ {target=“_blank”}\nCohesion and Coherence: https://www.enago.com/academy/coherence-academic-writing-tips-strategies/ {target=“_blank”} this link is covering both with a really good example on cohesion\nWriting Flow & Coherence: https://www.port.ac.uk/student-life/help-and-advice/study-skills/written-assignments/writing-flow-and-coherence {target=“_blank”}\nLonger list of transition words: https://www.eapfoundation.com/writing/cohesion/transitions/ {target=“_blank”}\n\nCambridge used to have some really good writing resources but the link is not working anymore. I’ve retrieved the content via wayback machine but modified the layout slightly for this guide\nParagraphs can…\n\ndivide writing into easily manageable sections\nsignal the introduction of a new idea or point\nsignal a change of direction in an argument\nsummarise what has been said so far before moving on to the next stage of an argument\n\nJot down some ideas in response to the following questions before revealing the answer to compare your ideas:\n\nWhat problems might be caused (or revealed) by paragraphs that are too long?\n\nr hide(\"Click here to see the solution\")\nIf paragraphs are too LONG:\n\nthe material may not be effectively split up\nthe essay/report may be rambling off the point\nit is more difficult for the reader to follow\n\nr unhide()\n\nWhat problems might be caused (or revealed) by paragraphs that are too short?\n\nr hide(\"Click here to see the solution\")\nIf paragraphs are too SHORT:\n\nthere is insufficient space to develop points properly, so they may seem superficial\nthe reader may find the essay disjointed, and it gives the impression of a series of disconnected points\n\nr unhide()\n\nA.3.1 Linking words and phrases\nLinking words and phrases should be used to show the direction of your argument throughout your report, not just at the beginning of paragraphs.\n\nsignal a reinforcement of ideas → in other words, for example\nsignal a development in ideas → moreover, more importantly\nsignal a change in ideas → instead, on the other hand, however, in contrast, nevertheless\nsignal a conclusion → thus, therefore, ultimately\n\nDo not try to use words like ‘thus’ or ‘therefore’ to suggest a connection between one idea and another where no logical connection actually exists!\n\n\nA.3.2 Linking your paragraphs\nTo make your essay flow smoothly and to construct a clear argument, it is essential to link your paragraphs together carefully. Here is an example from a book about Chinese business practices, showing the end of one paragraph and the beginning of another: &gt; By using family titles to name their colleagues, Chinese co-workers shape their business relations in terms of the well-known conventions and roles of the family and social structure. Interaction between employers and employees also finds a basis in family-centred codes of behaviour. The author’s main point is that family relations are the basis for all Chinese social relations, including those in the workplace. The end of the first paragraph sums up the way that Chinese co-workers interact. The beginning of the second paragraph focuses on the way that Chinese employers and interact with their employees.\nThe beginning of the second paragraph mirrors and repeats words from the end of the first one. The word ‘family’ appears in both paragraphs, while the ‘employers’ and ‘employees’ of the second paragraph bears a relationship of similarity and contrast to the ‘co-workers’ of the first paragraph. The word ‘interaction’ mirrors the word ‘relations’. The phrases ‘shape their business relations in terms of’ and ‘finds a basis in’ say similar things. The author keeps his main point – all relations are modelled on family relations – before us, while working through different examples of it.\nOne way of thinking about it is that paragraphs should introduce a new point without losing sight of the old one; they should bring out the relationship between the last point and the new one. Linking words and phrases work in both directions, backwards and forwards."
+  },
+  {
+    "objectID": "resources_writing.html#peel-paragraph-structure",
+    "href": "resources_writing.html#peel-paragraph-structure",
+    "title": "Appendix A — General writing resources",
+    "section": "A.4 PEEL paragraph structure",
+    "text": "A.4 PEEL paragraph structure\n\nhttps://libguides.hull.ac.uk/grammar/paragraphs {target=“_blank”}\nhttps://libguides.newcastle.edu.au/writing-paragraphs/structure {target=“_blank”} - even though they suggest that a paragraph of 250 should be around 5-6 sentences, however, that would make sentences extremely long and difficult to read"
+  },
+  {
+    "objectID": "resources_writing.html#confused-words",
+    "href": "resources_writing.html#confused-words",
+    "title": "Appendix A — General writing resources",
+    "section": "A.5 Confused words",
+    "text": "A.5 Confused words\n\nhttps://academicguides.waldenu.edu/writingcenter/scholarlyvoice/confusedwords {target=“_blank”}"
+  },
+  {
+    "objectID": "resources_writing.html#comparing-and-contrasting",
+    "href": "resources_writing.html#comparing-and-contrasting",
+    "title": "Appendix A — General writing resources",
+    "section": "B.1 Comparing and contrasting",
+    "text": "B.1 Comparing and contrasting\n\nhttps://www.eapfoundation.com/writing/essays/candc/ {target=“_blank”}\n\nDrs Wilhelmiina Toivo and Ashley Robertson developed a qualitative writing guide for the module Research Methods 2 (MSc programme). This course is much more in depth, however the resources for academic writing might be useful.\nhttps://wtoivo.github.io/RM2-ODL-quali-book/academic-writing.html {target=“_blank”}"
+  },
+  {
+    "objectID": "resources_qual.html#transcribing-guidelines",
+    "href": "resources_qual.html#transcribing-guidelines",
+    "title": "Appendix B — Resources for qualitative research",
+    "section": "B.1 Transcribing guidelines",
+    "text": "B.1 Transcribing guidelines\n\nFormatting and punctuation guide"
+  },
+  {
+    "objectID": "resources_qual.html#foundations-of-qualitative-research-video-series",
+    "href": "resources_qual.html#foundations-of-qualitative-research-video-series",
+    "title": "Appendix B — Resources for qualitative research",
+    "section": "B.2 Foundations of Qualitative Research (video series)",
+    "text": "B.2 Foundations of Qualitative Research (video series)\n\nPart 3 of a three-part lecture entitled The Foundations of Qualitative Research by Victoria Clarke. It tackles a bit more of the theoretical underpinnings. https://www.youtube.com/watch?v=bgZuPmO9130\nIf you are interested in a few more videos by Victoria Clarke, her youtube profile can be found at https://www.youtube.com/@victoriaclarke5927"
+  },
+  {
+    "objectID": "reading.html#books-on-thematic-analysis",
+    "href": "reading.html#books-on-thematic-analysis",
+    "title": "Appendix C — Further reading (mainly Braun & Clarke resources)",
+    "section": "C.1 Books on Thematic Analysis",
+    "text": "C.1 Books on Thematic Analysis\nBraun, V., & Clarke, V. (2013). Successful Qualitative Research: A Practical Guide for Beginners. Sage. Access via the library: https://go.exlibris.link/RY8L5PBy\n\n\n\nBraun, V., & Clarke, V. (2022). Thematic analysis: a practical guide. Sage. Access via the library: https://go.exlibris.link/4s9L4DWP\n\n\n\n\nC.1.0.1 Additional resources to Braun & Clarke (2022)\n\nThe Sage website (overview): https://study.sagepub.com/thematicanalysis\nResource Map: https://study.sagepub.com/thematicanalysis/resource-map\nResources for thematic analysis with examples: https://www.thematicanalysis.net/resources-for-ta/"
+  },
+  {
+    "objectID": "reading.html#braun-clarke---important-papers-on-ta",
+    "href": "reading.html#braun-clarke---important-papers-on-ta",
+    "title": "Appendix C — Further reading (mainly Braun & Clarke resources)",
+    "section": "C.2 Braun & Clarke - important papers on TA",
+    "text": "C.2 Braun & Clarke - important papers on TA\n\nBraun, V., & Clarke, V. (2019). Reflecting on reflexive thematic analysis. Qualitative Research in Sport, Exercise and Health, 11(4), 589–597. https://doi.org/10.1080/2159676X.2019.1628806\nBraun, V., & Clarke, V. (2021). One size fits all? What counts as quality practice in (reflexive) thematic analysis? Qualitative Research in Psychology, 18(3), 328-352. https://doi.org/10.1080/14780887.2020.1769238\nBraun, V., & Clarke, V. (2021). To saturate or not to saturate? Questioning data saturation as a useful concept for thematic analysis and sample-size rationales. Qualitative Research in Sport, Exercise and Health, 13(2), 201-216. https://doi.org/10.1080/2159676X.2019.1704846\nBraun, V., Clarke, V., & Hayfield, N. (2022). ‘A starting point for your journey, not a map’: Nikki Hayfield in conversation with Virginia Braun and Victoria Clarke about thematic analysis. Qualitative Research in Psychology, 19(2), 424–445. https://doi.org/10.1080/14780887.2019.1670765\nBraun, V., & Clarke, V. (2023). Is thematic analysis used well in health psychology? A critical review of published research, with recommendations for quality practice and reporting. Health Psychology Review, 17(4), 695–718. https://doi.org/10.1080/17437199.2022.2161594\nBraun, V., & Clarke, V. (2023). Toward good practice in thematic analysis: Avoiding common problems and be(com)ing a knowing researcher. International Journal of Transgender Health, 24(1), 1–6. https://doi.org/10.1080/26895269.2022.2129597"
+  }
+]
