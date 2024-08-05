@@ -45,7 +45,7 @@ This is a really difficult section to get right. In [this critical review (p. 70
 
 Braun and Clarke suggest that best practice would be to include a clear and specific rationale for the use of (the particular form of) TA, connected to the research question, theory, and/or context. For example, if TA’s flexibility is a selling feature for you, explain how it was utilised and why it was important for your research question.
 
-One way of justifying could broadly address which [qualitative research “camp”](#sec-camps) you map onto – experiential or critical. And/or you could refer to **inductive (e.g., data-driven) vs deductive orientations (e.g., theory/researcher-driven) to the data** or whether you focus on **semantic (e.g., surface-level/ explicit meaning) vs latent analysis (implicit meaning) ** (both currently addressed in [Phase 2: Data coding](#sec-phase2)). Another way could be to argue via the [**theoretical underpinnings**]( {#sec-theory). 
+One way of justifying could broadly address which [qualitative research “camp”](#sec-camps) you map onto – experiential or critical. And/or you could refer to **inductive (e.g., data-driven) vs deductive orientations (e.g., theory/researcher-driven) to the data** or whether you focus on **semantic (e.g., surface-level/ explicit meaning) vs latent analysis (implicit meaning) ** (both currently addressed in [Phase 2: Data coding](#sec-phase2)). Another way could be to argue via the [**theoretical underpinnings**](#sec-theory). 
 
 ### Two qualitative research camps {#sec-camps}
 
