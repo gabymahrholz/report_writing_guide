@@ -6,7 +6,7 @@ project:
 execute:
   freeze: auto
 book:
-  title: Report writing guide for Dissertations
+  title: Report writing guide
   subtitle: ''
   author:
   - orcid: 0000-0002-2135-6888
@@ -16,7 +16,7 @@ book:
     roles: ~
   doi: ''
   license: CC-BY
-  description: Book Description
+  description: Resource to structure qualitative reports (for L4 UG and ODL dissertations at the University of Glasgow)
   cover-image: images/logos/logo.png
   image: images/logos/logo.png
   favicon: images/logos/logo.png

@@ -1,15 +1,16 @@
 # Overview {.unnumbered}
 
-This is report writing guide for qualitative research projects
+**Summary:** This is a report writing guide for qualitative research projects. It is specifically designed to guide Level 4 undergraduates and MSc Conv students on the ODL programme. 
 
-work still in development - constantly changing and will add new sources
+**Note:** This book is still in development and getting updated as we go through. In particular, resources will be added as students request them
 
-This guide introduces thematic analysis based on the writings of Victoria Braun and Virginia Clarke, in particular their 2022 book "Thematic analysis: a practical guide" that you can access via the library: [https://go.exlibris.link/4s9L4DWP](https://go.exlibris.link/4s9L4DWP){target="_blank"} But also on materials already developed by Drs Ashley Robertson and Wilhelmiina Toivo both from the University of Glasgow.
-
-If you want to apply anything other than TA, I'm not your person and this is not your guide. Not saying you cannot do it, but I would not be able to support you.
+This guide introduces thematic analysis based on the writings of Victoria Braun and Virginia Clarke, in particular their 2022 book "Thematic analysis: a practical guide" that you can access via the library: [https://go.exlibris.link/4s9L4DWP](https://go.exlibris.link/4s9L4DWP){target="_blank"} But it also borrows heavily from other brilliant minds, such as Drs Ashley Robertson and Wilhelmiina Toivo (both from the University of Glasgow) who developed some great materials .
 
 
-The dissertation should all the sections:
+**If you want to apply anything other than TA, I'm not your person and this is not your guide. Not saying you cannot do it, but I would not be able to support you.**
+
+
+The dissertation should include the following sections:
 
 * Title
 * Abstract
