@@ -23,7 +23,7 @@ The general structure of a methods section is pretty similar regardless of wheth
 
 
 ::: {.callout-important}
-The headings are interlaced in the following sections. Sections applicable to only primary or secondary data analysis approaches are specifically labelled. If there is a specific label attached, sections apply to both methods equally.
+The headings are interlaced in the following sections. Sections applicable to only primary or secondary data analysis approaches are specifically labelled. If there is no specific label attached, sections apply to both approaches equally.
 :::
 
 ## Research design overview {#sec-design}
