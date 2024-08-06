@@ -45,7 +45,7 @@ This is a really difficult section to get right. In [this critical review (p. 70
 
 Braun and Clarke suggest that best practice would be to include a clear and specific rationale for the use of (the particular form of) TA, connected to the research question, theory, and/or context. For example, if TA’s flexibility is a selling feature for you, explain how it was utilised and why it was important for your research question.
 
-One way of justifying could broadly address which [qualitative research “camp”](#sec-camps) you map onto – experiential or critical. And/or you could refer to **inductive (e.g., data-driven) vs deductive orientations (e.g., theory/researcher-driven) to the data** or whether you focus on **semantic (e.g., surface-level/ explicit meaning) vs latent analysis (implicit meaning) ** (both currently addressed in [Phase 2: Data coding](#sec-phase2)). Another way could be to argue via the [**theoretical underpinnings**](#sec-theory). 
+One way of justifying could broadly address which [qualitative research “camp”](#sec-camps) you map onto – experiential or critical. And/or you could refer to **inductive (e.g., data-driven) vs deductive orientations (e.g., theory/researcher-driven) to the data** or whether you focus on **semantic (e.g., surface-level/ explicit meaning) vs latent analysis (implicit meaning) ** (both currently addressed in [Phase 2: Data coding](#sec-phase2)). Another way could be to argue via the [theoretical underpinnings](#sec-theory). 
 
 ### Two qualitative research camps {#sec-camps}
 
@@ -76,21 +76,23 @@ According to Stuart Hall (1997), there are 3 different theories of language (as 
 #### The "Ologies": Epistemology and Ontology
 The dreaded “Ologies” – not gonna lie, this is pretty philosophical and tough to get your head around. Additionally, it’s not helpful that there are a variety of similar concepts floating about. Here we are keeping to the holy writings that are Braun and Clarke (2022) – trying to keep it brief.
 
-**Ontology** refers to the **Theory of reality**.
+<if>Ontology refers to the *theory of reality*.</if>
 
-Extremely simplified, ask yourself “is there a reality that exists separately from our research
-practice?”. If the answer is:
+Extremely simplified, ask yourself *“Is there a reality that exists separately from our research practice?”*. If the answer is:
 
 * “Well of course there is” – this is captured by an ontological position known as **realism** (assumed a single truth and it can be discovered; small q; maps onto (post)positivist epistemology).
 * “Um yes but also no” – this is captured by a position known as **critical realism** (reality and representations of reality are *not* the same; they think the truth is out there but cannot be accessed directly)
 * “Definitely not, how naïve are you?” – this is captured by a position known as **relativism** (Big Q; maps onto Constructionism; language is used to create truth).
+
+
+![The ontology continuum (based on Braun & Clarke, 2013, p. 26).](images/ontology_continuum.PNG)
 
 ::: {.callout-tip}
 ## Deep dive into ontology?
 For a deep dive into ontology, read Braun and Clarke (2022), pages 167-175.
 :::
 
-**Epistemology** refers to the **theories of knowledge**.
+<if>Epistemology refers to the *theories of knowledge*.</if>
 
 It’s basically the question of how knowledge is generated. What do we think is possible to know? What modes of information do we trust as real, true, valid sources of information?
 
@@ -110,7 +112,7 @@ For a deep dive into epistemology, read Braun and Clarke (2022), pages 175-188.
 :::
 
 
-To sum up, basically, you want to place yourself explicitly within this flexible framework. By now, you may have noticed that these different variations of reflexive TA kind of cluster together – **experiential**, **(post)positivism**, **semantic**, and **inductive** approaches on one side and **critical**, **constructionist** , **latent**, and **deductive** approaches on the other. But these different approaches are not mutually exclusive, they are actually more on a spectrum (see Table below).
+To sum up, basically, you want to place yourself explicitly within this flexible framework. By now, you may have noticed that these different variations of reflexive TA kind of cluster together – **experiential**, **(post)positivism**, **semantic**, and **inductive** approaches on one side and **critical**, **constructionist**, **latent**, and **deductive** approaches on the other. But these different approaches are not mutually exclusive, they are actually more on a spectrum (see Table below).
  
 
 
@@ -130,7 +132,7 @@ The rationale for “why TA” can actually be quite brief (see for example, [Ra
 Describe your participants. Cover aspects like:
 
 * How many participants and who were they?
-* Provide a table with pseudonyms, age, gender, nationality
+* Provide a table with pseudonyms, and include demographic information relevant to your research question (e.g., age, gender, nationality, etc.)
 * Why were these participants considered right for your study aim?
 
 
@@ -211,9 +213,8 @@ As the label says, you become deeply familiar with the content of your dataset. 
 
 Work systematically through your dataset in a fine-grained way. Identify quotes in the data that are either interesting for and/or relevant to your research question. Try to assign a code label (e.g., a word or a phrase) that is analytically meaningful. You'd want to aim for single-meaning code labels so that grouping them together in the next stage becomes easier. You can do this the old-fashioned way with paper and highlighters or use some funky software like NVIVO. The choice is yours.
 
-When coding, pay attention to the orientations to data coding: **inductive (data-driven)** vs **deductive (researcher- or theory-driven)** orientations. They are actually on a spectrum, and in reality, they cannot be 100% one or the other. So it's fine to place your orientation as either **predominantly inductive**, **predominantly deductive** or to have **elements of both**. Whatever you decide on, it needs to fit your purpose and your theoretical framework.
+When coding, pay attention to the orientations to data coding: **inductive (data-driven)** vs **deductive (researcher- or theory-driven)** orientations. If you are interested in the experiences, perspectives, and meanings of the participants, you are probably taking more of an inductive approach (aligning with Big Q; experiential qualitative research), whereas if you let theory guide you in your attempt to make meaning of the data, you'd probably have a more deductive orientation. They are actually on a spectrum, and in reality, they cannot be 100% one or the other. So it's fine to place your orientation as either **predominantly inductive**, **predominantly deductive** or to have **elements of both**. Whatever you decide on, it needs to fit your purpose and your theoretical framework.
 
-If you are interested in the experiences, perspectives, and meanings of the participants, you are probably taking more of an inductive approach (aligning with Big Q; experiential qualitative research). Whereas if you let theory guide you in your attempt to make meaning of the data, you'd probably have a more deductive orientation.
 
 A second consideration is the level at which you will code meaning – semantic vs latent coding. **Semantic codes** capture explicitly expressed meaning; they often stay close to the language of participants or the overt meanings of data. **Latent codes** focus on a deeper, more implicit level of meaning. Initial coding tends to be more semantic but might switch to more latent coding the more familiar you become with the data. In practice, it's neither one nor the other, so again, we're talking about a spectrum here.
 
